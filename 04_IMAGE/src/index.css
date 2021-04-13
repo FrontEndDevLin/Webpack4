@@ -1,0 +1,20 @@
+.vue {
+  width: 100px;
+  height: 100px;
+  background: url("./img/vue.jpg") no-repeat;
+  background-size: cover;
+}
+
+.angular {
+  width: 150px;
+  height: 150px;
+  background: url("./img/angular.jpg") no-repeat;
+  background-size: cover;
+}
+
+.react {
+  width: 200px;
+  height: 200px;
+  background: url("./img/react.png") no-repeat;
+  background-size: cover;
+}
