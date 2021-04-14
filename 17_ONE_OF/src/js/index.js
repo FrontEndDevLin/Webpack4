@@ -18,7 +18,7 @@ const promise = p().then(() => {
   console.log(promise);
 });
 
-print()();
+print();
 
 if (module.hot) {
   module.hot.accept("./print.js", () => {
