@@ -47,5 +47,11 @@
       "not op_mini all"
     ]
   },
-  "sideEffects": ["*.css", "*.less"]
+  "sideEffects": [
+    "*.css",
+    "*.less"
+  ],
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
 }
